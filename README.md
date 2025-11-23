@@ -4,7 +4,7 @@ summary: A small auto fight game written in C++
 
 ## Overview
 
-intended for hooome assignment game stats automatically but you can adjust
+intended for home assignment game starts automatically but you can adjust
 
 ## Features
 

@@ -18,11 +18,11 @@ intended for home assignment game starts automatically but you can adjust
    git clone https://github.com/Alisher7172/auto_fight-game_with_c++.git
 2. Change into the project directory:
    cd auto_fight-game_with_c++
-3. Build (example):
-   - compile manually: g++ filenames.cpp, filenames.h
-4. Run:
-   ./auto_fight
-
+3. Run:
+   cd "path/to/homework_fight"
+   g++ -c *.cpp
+   g++ *.o -o Project1.exe
+   ./Project1.exe
 ## Configuration
 
  no configuration variables
